@@ -1,5 +1,7 @@
 github.com/moonfdd/ffmpeg-go v0.0.0-20230312012703-645db7644c54/go.mod h1:/IOm58TbyzXZ3aQrYqaz4TSu+UO6exa4Sdc4kIiWWsA=
 github.com/moonfdd/ffmpeg-go v0.0.0-20230312072009-4eb267d2a1f0 h1:V+ZCoyDKvsBUrBZ3M9eA13ZEMDgdGhNmWT7Ym3WecDs=
 github.com/moonfdd/ffmpeg-go v0.0.0-20230312072009-4eb267d2a1f0/go.mod h1:/IOm58TbyzXZ3aQrYqaz4TSu+UO6exa4Sdc4kIiWWsA=
+github.com/moonfdd/ffmpeg-go v0.0.0-20230314004435-ff212be86bc3 h1:LBnfpb1KgccKWL/T3Hv5seD6imjK+LQ9tVUfzNW8nPc=
+github.com/moonfdd/ffmpeg-go v0.0.0-20230314004435-ff212be86bc3/go.mod h1:/IOm58TbyzXZ3aQrYqaz4TSu+UO6exa4Sdc4kIiWWsA=
 github.com/ying32/dylib v0.0.0-20220227124818-fdf9ea9fbc96 h1:+kU/yXSAQPL4G7OQOxz/j62GdM+G5yd5J1/NNm7u3QI=
 github.com/ying32/dylib v0.0.0-20220227124818-fdf9ea9fbc96/go.mod h1:WPBTfbqg/aA1xqHFPB4fgBHETq/G/75yErbnexmaEOo=
